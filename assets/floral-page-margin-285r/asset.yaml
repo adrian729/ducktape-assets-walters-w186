@@ -1,0 +1,61 @@
+# descriptive: find it and understand it
+id: floral-page-margin-285r
+title: Four-sided floral page margin, fol. 285r
+description: Page margin surrounding a transparent text area on all four sides. The wide right column grows from blue and orange acanthus, with a green stem of strawberry plants bearing red fruit and pink flowers; the bottom strip has a grey-blue urn of orange flowers at the centre between blue and pink acanthus; the top and left sides are thin gold ivy sprigs with blue and red buds, broken into short pieces where the text and miniature stood. Gold ivy leaves on fine black stems fill the ground throughout. Transparent inside and outside the border.
+type: frame
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - margin
+  - acanthus
+  - ivy
+  - flower
+  - berry
+  - leaf
+  - urn
+colors:
+  - gold
+  - blue
+  - green
+  - orange
+  - pink
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 285r
+render:
+  image: {}
+related:
+  - asset: walters-w186/green-robed-angel-with-lute
+    role: companion
+  - asset: walters-w186/right-blue-robed-angel-with-vielle
+    role: companion
+  - asset: walters-w186/saint-adrian-with-lion-sword-and-anvil
+    role: companion
+usage_notes:
+  - The top and left sides are fragmentary sprigs, so the frame reads best with content set in the open interior and the right column and bottom strip kept whole.
+  - The three figures of fol. 285r stood inside this margin in the source.
+display_width:
+  - 400
+  - 1000
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The fine gold ivy and tendrils sit at low alpha with a faint parchment fringe.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Two angels serenading St. Adrian, bounded by lute- and vielle-playing angels
+  object_identifier: W.186, fol. 285r
+  date: Ca. 1460 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000573_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 090645bbb2b84caa5271ad86837e7db23c61e22cecec7d03a2afa39049fd2693
+license: null

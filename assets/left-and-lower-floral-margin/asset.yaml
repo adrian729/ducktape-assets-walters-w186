@@ -1,0 +1,60 @@
+# descriptive: find it and understand it
+id: left-and-lower-floral-margin
+title: Left and lower floral page margin, fol. 276v
+description: L-shaped page margin running down the left side and along the bottom. The left column holds blue and orange acanthus at the top and bottom with a green stem of pink carnation-like flowers, a blue flower, red and pink strawberries and green leaves between them; the bottom strip has blue and pink acanthus at both ends with an orange flower and a pink thistle between. Gold ivy leaves and tendrils on fine black stems fill the ground. Transparent, with the open interior above and to the right.
+type: corner
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - margin
+  - acanthus
+  - ivy
+  - flower
+  - berry
+  - leaf
+colors:
+  - gold
+  - blue
+  - green
+  - orange
+  - pink
+facing: up
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 276v
+render:
+  image: {}
+related:
+  - asset: walters-w186/salvator-mundi-with-book-and-gold-orb
+    role: companion
+  - asset: walters-w186/left-blue-robed-angel-musician
+    role: companion
+  - asset: walters-w186/right-blue-robed-angel-with-harp
+    role: companion
+usage_notes:
+  - Use as a bottom-left corner piece with content set in the open area above and to the right of it.
+  - The Salvator Mundi and the two blue-robed angels of fol. 276v stood inside this margin in the source.
+display_width:
+  - 400
+  - 1000
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The fine gold ivy and tendrils sit at low alpha with a faint parchment fringe.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Two angels serenading salvator mundi
+  object_identifier: W.186, fol. 276v
+  date: Ca. 1460 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000556_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 831db9c73ade72a6ee4075f7252354fad8ca3af67aeefc6674ed4bda9d0c3dd7
+license: null

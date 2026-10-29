@@ -1,0 +1,59 @@
+# descriptive: find it and understand it
+id: angel-bust-with-musical-instrument
+title: Angel bust with a small gold instrument
+description: Half-length angel turned to the right, in a mauve-pink mantle with gold highlights over a green gown, a pale green veil over the hair and a dark blue, gold-flecked wing behind. The left hand cradles a small rounded gold instrument bound with an orange strap, raised towards the mouth; the right hand is lifted beside it with the fingers at the mouth. The figure ends at the painted hem of the mantle, as much as was visible in the miniature. The background is transparent.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - angel
+  - musician
+  - wings
+  - robe
+  - veil
+colors:
+  - pink
+  - blue
+  - gold
+  - green
+  - cream
+facing: right
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: 291v
+render:
+  image: {}
+related:
+  - asset: walters-w186/angel-bust-with-trumpets-behind
+    role: companion
+  - asset: walters-w186/saint-margaret-emerging-from-winged-dragon
+    role: companion
+  - asset: walters-w186/floral-page-margin-291v
+    role: companion
+usage_notes:
+  - Only the upper body was visible in the miniature; place it behind another element or at a lower edge so the missing lower half is not noticed.
+display_width:
+  - 120
+  - 360
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Partly hidden in the source, so the figure stops at the mantle hem with nothing below it.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: St. Margaret emerging from Dragon
+  object_identifier: W.186, fol. 291v
+  date: Ca. 1460 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000586_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: c1fd00c6e1be1d51bc000cdd4c0a666a358a15d0eb83b2e9d4e19b90e0d18daf
+license: null

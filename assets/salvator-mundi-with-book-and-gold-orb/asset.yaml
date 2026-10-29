@@ -1,0 +1,58 @@
+# descriptive: find it and understand it
+id: salvator-mundi-with-book-and-gold-orb
+title: Salvator Mundi with book and orb
+description: Christ standing facing the viewer in a long brown robe with gold hatching and a gold hem, long brown hair and beard, and a gold rayed halo behind the head. The right hand is raised in blessing; the left holds an open book with red lettering. The bare feet rest on a gold orb banded in green at the bottom. The background is transparent.
+type: illustration
+categories:
+  - humans
+  - reading
+subjects:
+  - christ
+  - halo
+  - book
+  - orb
+  - robe
+colors:
+  - brown
+  - gold
+  - green
+  - cream
+  - red
+facing: viewer
+view: front
+composition: single-figure
+
+# structural: how it is organised and related
+group: 276v
+render:
+  image: {}
+related:
+  - asset: walters-w186/left-blue-robed-angel-musician
+    role: companion
+  - asset: walters-w186/right-blue-robed-angel-with-harp
+    role: companion
+  - asset: walters-w186/left-and-lower-floral-margin
+    role: companion
+usage_notes:
+  - In the source the two blue-robed angels of fol. 276v play on either side of this figure.
+display_width:
+  - 150
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: Two angels serenading salvator mundi
+  object_identifier: W.186, fol. 276v
+  date: Ca. 1460 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000556_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: 831db9c73ade72a6ee4075f7252354fad8ca3af67aeefc6674ed4bda9d0c3dd7
+license: null

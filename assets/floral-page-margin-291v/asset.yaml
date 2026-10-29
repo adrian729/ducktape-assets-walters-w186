@@ -1,0 +1,60 @@
+# descriptive: find it and understand it
+id: floral-page-margin-291v
+title: Four-sided floral page margin, fol. 291v
+description: Page margin surrounding a transparent text area on all four sides. The wide left column has blue and orange acanthus at the top and bottom, with a green stem of red and pink flowers and blue flowers with yellow centres growing from a grey-blue urn at mid-height; the bottom strip has blue and orange acanthus at both ends with pink flowers between; the top and right sides are thin gold ivy sprigs with blue and red buds, the right side broken into two pieces. Gold ivy leaves on fine black stems fill the ground throughout. Transparent inside and outside the border.
+type: frame
+categories:
+  - floral
+  - scrollwork
+subjects:
+  - margin
+  - acanthus
+  - ivy
+  - flower
+  - leaf
+  - urn
+colors:
+  - gold
+  - blue
+  - green
+  - orange
+  - pink
+facing: none
+composition: single-ornament
+
+# structural: how it is organised and related
+group: 291v
+render:
+  image: {}
+related:
+  - asset: walters-w186/saint-margaret-emerging-from-winged-dragon
+    role: companion
+  - asset: walters-w186/angel-bust-with-musical-instrument
+    role: companion
+  - asset: walters-w186/angel-bust-with-trumpets-behind
+    role: companion
+usage_notes:
+  - The top and right sides are fragmentary sprigs, so the frame reads best with content set in the open interior and the left column and bottom strip kept whole.
+  - Saint Margaret and the two angel busts of fol. 291v stood inside this margin in the source.
+display_width:
+  - 400
+  - 1000
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The fine gold ivy and tendrils sit at low alpha with a faint parchment fringe.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: St. Margaret emerging from Dragon
+  object_identifier: W.186, fol. 291v
+  date: Ca. 1460 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000586_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: c1fd00c6e1be1d51bc000cdd4c0a666a358a15d0eb83b2e9d4e19b90e0d18daf
+license: null

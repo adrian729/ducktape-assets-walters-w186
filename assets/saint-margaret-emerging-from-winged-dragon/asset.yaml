@@ -1,0 +1,61 @@
+# descriptive: find it and understand it
+id: saint-margaret-emerging-from-winged-dragon
+title: Saint Margaret rising from the dragon
+description: A haloed woman with long blond hair, in a blue mantle over a gold brocade gown, rises from the back of a pale yellow-green dragon and holds a gold cross-staff in her right hand. The dragon faces left with open jaws clutching the hem of her blue mantle, ribbed green wings, clawed feet and a curling tail at the right. Below, a low grey crenellated wall runs in from both sides over green grass with small white and red flowers. The wall is cut straight along the bottom and both outer edges; the background is transparent.
+type: illustration
+categories:
+  - humans
+  - fantasy
+subjects:
+  - saint
+  - woman
+  - dragon
+  - cross
+  - halo
+  - wall
+  - grass
+colors:
+  - blue
+  - gold
+  - green
+  - gray
+  - yellow
+facing: left
+view: three-quarter
+composition: multiple-figures
+
+# structural: how it is organised and related
+group: 291v
+render:
+  image: {}
+related:
+  - asset: walters-w186/angel-bust-with-musical-instrument
+    role: companion
+  - asset: walters-w186/angel-bust-with-trumpets-behind
+    role: companion
+  - asset: walters-w186/floral-page-margin-291v
+    role: companion
+usage_notes:
+  - The crenellated wall is the painted foreground of the miniature and is cut flat; set it on a baseline, or crop above the wall tops to keep only the saint and the dragon.
+display_width:
+  - 300
+  - 900
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: The foreground wall is cut straight at the bottom and at both sides.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: St. Margaret emerging from Dragon
+  object_identifier: W.186, fol. 291v
+  date: Ca. 1460 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000586_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: c1fd00c6e1be1d51bc000cdd4c0a666a358a15d0eb83b2e9d4e19b90e0d18daf
+license: null

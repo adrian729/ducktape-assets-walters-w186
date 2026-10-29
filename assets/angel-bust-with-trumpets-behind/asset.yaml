@@ -1,0 +1,58 @@
+# descriptive: find it and understand it
+id: angel-bust-with-trumpets-behind
+title: Angel bust with trumpets behind
+description: Half-length angel in a green gown with a white collar, blond hair, the head turned slightly to the left and both hands joined in prayer at the chest; pinkish, gold-streaked wings rise behind the shoulders. Two red and gold trumpets stand up behind the figure, one long and leaning to the upper left, the other a short bell at the upper right; neither is held by this figure's hands. The lower body is cut flat across the chest where it was hidden in the source. The background is transparent.
+type: illustration
+categories:
+  - humans
+  - music
+subjects:
+  - angel
+  - trumpet
+  - wings
+  - robe
+colors:
+  - green
+  - red
+  - gold
+  - cream
+  - pink
+facing: left
+view: three-quarter
+composition: single-figure
+
+# structural: how it is organised and related
+group: 291v
+render:
+  image: {}
+related:
+  - asset: walters-w186/angel-bust-with-musical-instrument
+    role: companion
+  - asset: walters-w186/saint-margaret-emerging-from-winged-dragon
+    role: companion
+  - asset: walters-w186/floral-page-margin-291v
+    role: companion
+usage_notes:
+  - Only the upper body survives from the miniature; place it behind another element or at a lower edge so the flat cut is hidden.
+display_width:
+  - 150
+  - 500
+
+# administrative: manage, access, preserve
+status: approved
+review: done
+created: 2026-10-28
+quality: Cut flat across the chest where the figure was hidden in the source.
+master: master.png
+provenance:
+  method: ai-assisted-extraction
+  institution: Walters Art Museum
+  object_title: St. Margaret emerging from Dragon
+  object_identifier: W.186, fol. 291v
+  date: Ca. 1460 CE
+  record_url: https://thedigitalwalters.org/Data/WaltersManuscripts/html/W186/description.html
+  image_url: https://thedigitalwalters.org/Data/WaltersManuscripts/W186/data/W.186/master/W186_000586_1200.tif
+  image_rights: CC0-1.0
+  rights_url: https://www.thedigitalwalters.org/01_ACCESS_WALTERS_MANUSCRIPTS.html
+  source_sha256: c1fd00c6e1be1d51bc000cdd4c0a666a358a15d0eb83b2e9d4e19b90e0d18daf
+license: null
