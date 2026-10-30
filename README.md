@@ -3,7 +3,7 @@
 
 Angels playing lutes, vielles and other instruments, with the acanthus and gold-ivy page margins, from Walters Ms. W.186, a Book of Hours of about 1460, grouped by folio.
 
-Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `walters-w186`, historical, 12 assets.
+Part of [Ducktape Assets](https://github.com/adrian729/ducktape-assets). Set id `walters-w186`, historical, 12 assets, version 1.0.0.
 
 ## Licence and attribution
 
@@ -13,10 +13,10 @@ Author: adrian729. Maintainer: https://github.com/adrian729/ducktape-assets/issu
 
 ## Use one asset
 
-No version is published yet. Once it is, pin the exact version (never `@latest`); the URL scheme is:
+Pin the exact version (never `@latest`). For `walters-w186/angel-bust-with-musical-instrument`:
 
-```
-https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w186@<version>/webp/<asset-id>-<width>.webp
+```html
+<img src="https://cdn.jsdelivr.net/npm/@ranx729/ducktape-assets-walters-w186@1.0.0/webp/angel-bust-with-musical-instrument-512.webp" alt="" loading="lazy">
 ```
 
 Package `@ranx729/ducktape-assets-walters-w186`; every file, width and format is listed in its `manifest.json`. Masters live in git under `assets/<id>/` and in `@ranx729/ducktape-assets-walters-w186-masters`; never put a master on a page.
